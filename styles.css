@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  color: gray;
+}
+
+body {
+  background-image: url("background4.jpg");
+  text-align: center;
+  color: 4467da;
+}
+
+ul {
+  text-align: center;
+  color: rgb(24, 101, 218);
+}
+
+h2 {
+  color: rgb(24, 101, 218);
+  margin-top: 19px;
+  border: 2.5px;
+  border-style: outset;
+  height: 50px;
+  width: 300px;
+  text-align: center;
+}
+
+.center {
+  margin: auto;
+  width: 25%;
+  /* border: 3px solid green; */
+  padding: 20px;
+}
+
+#parag {
+  color: 5c6a99;
+}
+
+img {
+  height: 150px;
+  width: 100px;
+  border-color: rgb(126, 120, 120);
+  border-style: groove;
+  float: initial;
+  padding: 5px;
+}
